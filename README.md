@@ -48,7 +48,18 @@ Among the libraries and frameworks utilized in this project, PyTorch stands out 
 Run inference file:
 ```bash
 python inference.py <yourpath>\images
+```
+Run training file:
+```bash
 python train.py
+```
+Install depencies and set up the environment
+```bash
+python3 -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
+```
+In any case, you can also see my demo notebook with showing the model's work
 
 
 
