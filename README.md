@@ -1,6 +1,6 @@
 # Computer Vision Test Task Solution for CHI IT Academy
 
-** Author **
+**Author**
 - Oleh Buravenko
 - burik15v@gmail.com
 - Telegram: @CrunchLover228
@@ -47,4 +47,9 @@ Among the libraries and frameworks utilized in this project, PyTorch stands out 
 ## Usage Instructions
 Run inference file:
 ```bash
-python inference.py <yourpath>\image
+python inference.py <yourpath>\images
+python train.py
+
+
+
+
